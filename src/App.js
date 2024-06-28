@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog 테스트으으으
+            EKS DEMO Blog 테스트으으으???왜안바껴
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
